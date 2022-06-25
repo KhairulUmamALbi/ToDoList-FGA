@@ -18,7 +18,7 @@ h1 {
 }
 
 .App {
-    background-color: #9f9f9f;
+    background-color: hsl(181, 48%, 45%);
     color: #fff;
     display: flex;
     flex-direction: column;
